@@ -2,7 +2,7 @@
 
 Proyecto académico de la materia **Análisis y Modelamiento de Software**.
 
-**Auxiliar Cafetero** es un sistema de apoyo para la operación de una cafetería: gestión del menú, pedidos, inventario y atención al cliente.
+**Auxiliar Cafetero** es un sistema de apoyo para la operación de una cafetería: registro de ventas, gestión del menú, cortes de caja y otros procesos de la operación diaria.
 
 > **Fase actual:** análisis y modelamiento. Aún **no hay código**.
 
